@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2021-11-13
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I was so happy to win the 1st place in [TAMU Fall 2021 Programming Contest](https://tamuacpc.com/contests)!
+
