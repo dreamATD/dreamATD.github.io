@@ -10,6 +10,11 @@
   type: time_table
   contents:
     - title: PhD
+      institution: UIUC
+      year: 2023
+      description:
+        - Advised by Yupeng Zhang.
+    - title: PhD
       institution: Texas A&M University
       year: 2021
       description:
@@ -24,10 +29,10 @@
   type: time_table
   contents:
     - title: PhD Student
-      institution: Crypto Group,Texas A&M University
+      institution: Crypto Group
       year: 2021 - now
       description:
-        - Advised by Yupeng Zhang and Juan Garay on Cryptography.
+        - Advised by Yupeng Zhang on Cryptography.
         - Mainly worked on interactive zero knowledge proof and its applications.
     - title: Visiting Student
       institution: Crypto Group, University of California, Berkeley
@@ -46,9 +51,15 @@
 - title: Work Experience
   type: time_table
   contents:
+    - title: Research Intern
+      institution: Microsoft Research
+      year: 2023
+      description:
+        - Supervised by Greg Zaverucha and Srinath Setty
+        
     - title: Software Engineering Intern
       institution: Google LLC.
-      year: 2021
+      year: 2022
       description:
         - Supervised by Zhao Tian.
         - Worked on supporting certificate-based authentication of IKEv2 in a distributed system, using Go as the programming language.
