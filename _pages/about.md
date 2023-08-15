@@ -2,16 +2,16 @@
 layout: about
 title: About
 permalink: /
-description: A second-year Ph.D. in TAMU.
+description: A PhD student working on Zero-knowledge proof.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>435 Nagle St</p>
-    <p>College Station</p>
-    <p>Texas, USA</p>
+    <p>306 N Wright St</p>
+    <p>Urbana</p>
+    <p>IL, USA</p>
 
 news: true  # includes a list of news items
 social: true # includes social icons at the bottom of the page
