@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
 description: A PhD student working on Zero-knowledge proof.
 
@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 selected_papers: true # includes a list of papers marked as "selected={true}"
 ---
 
-Now I am a PhD in **UIUC** advised by **Yupeng Zhang**. Previously, I was educated in **ACM Honor Class** in **Shanghai Jiao Tong University** and attained the bachelor degree in 2020.
+Now I am a PhD student in **UIUC** advised by **Yupeng Zhang**. Previously, I was educated in **ACM Honor Class** in **Shanghai Jiao Tong University** and attained the bachelor degree in 2020.
 
 My research interests lie broadly in **cryptography and security**, especially succinct zero-knowledge proof system and their applications in blockchain.
 
