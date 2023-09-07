@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>306 N Wright St</p>
+    <p>1308 W Main St</p>
     <p>Urbana</p>
     <p>IL, USA</p>
 
