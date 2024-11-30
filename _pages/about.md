@@ -22,4 +22,4 @@ Now I am a PhD student in **UIUC** advised by **Yupeng Zhang**. Previously, I wa
 
 My research interests lie broadly in **cryptography and security**, especially succinct zero-knowledge proof system and their applications in blockchain.
 
-Here is my [Resume](https://liutianyi.site/assets/pdf/tianyi_resume.pdf).
+Here is my [Resume](https://liutianyi.site/assets/pdf/tianyi.pdf).
