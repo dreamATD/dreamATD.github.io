@@ -40,7 +40,6 @@
       description:
         - Advised by Sanjam Garg on Cryptography.
         - Mainly worked on identity-based lossy trapdoor function and n-KDM security.
-
     - title: Undergraduated student
       institution: LATTICE Lab, Shanghai Jiao Tong University
       year: 2018 - 2019
@@ -57,14 +56,12 @@
       description:
         - Supervised by Greg Zaverucha and Srinath Setty
         - Worked on developing new applications with some succinct argument schemes.
-        
     - title: Software Engineering Intern
       institution: Google LLC.
       year: 2022
       description:
         - Supervised by Zhao Tian.
         - Worked on supporting certificate-based authentication of IKEv2 in a distributed system, using Go as the programming language.
-
     - title: Algorithm Intern
       institution: Matrixelements
       year: 2020 - 2021

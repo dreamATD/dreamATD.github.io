@@ -1,6 +1,8 @@
 github_users:
   - dreamATD
 
+repo_description_lines_max: 2
+
 github_repos:
   - TAMUCrypto/zkCNN
   - TAMUCrypto/virgo-plus
