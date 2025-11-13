@@ -10,12 +10,7 @@
     <a class="stretched-link" href="{{ project.url | relative_url }}" aria-label="{{ project.title }}">
       <span class="sr-only">{{ project.title }}</span>
     </a>
-    {%- endif %}
-    {%- if project.img %}
-    {%- include figure.html
-      path=project.img
-      alt="project thumbnail" -%}
-    {%- endif %}
+    {%- endif %} {%- if project.img %} {%- include figure.html path=project.img alt="project thumbnail" -%} {%- endif %}
     <div class="card-body">
       <h2 class="card-title text-lowercase">{{ project.title }}</h2>
       <p class="card-text">{{ project.description }}</p>

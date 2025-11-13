@@ -74,6 +74,6 @@
   type: nested_list
   contents:
     - title: Zero-knowledge Proof
-      items: 
+      items:
         - SNARK from polynomial IOP, such as Plonk, STARK, Spartan, Libra, ...
         - Applications in blockchain and machine learning.
