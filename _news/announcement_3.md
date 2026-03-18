@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I was so happy to win the 1st place in [TAMU Fall 2021 Programming Contest](https://tamuacpc.com/contests)!
+I was so happy to win the 1st place in [TAMU Fall 2021 Programming Contest](https://tamuacpc.org/contests)!
